@@ -5,7 +5,7 @@ module.exports (title= "Blog App");
     siteAbout= (title04= "About CSS Modules");
   plugins= [
     {
-      (resolve= ("gatsby-source-airtable"));
+    letpromise:newPromise= function(resolve,reject){("[gatsby]-(source)-airtable")}
     }]
     [
     {
